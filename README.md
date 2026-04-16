@@ -156,7 +156,7 @@ Estes prompts podem ser usados em qualquer sessão futura de estudo no NotebookL
 
 ## 👨‍💻 Autor
 
-**Leonardo Henrique** — Estudante de Análise e Desenvolvimento de Sistemas  
+**Leonardo Henrique Ramos Ferreira**
 [LinkedIn](https://linkedin.com/in/seu-perfil) | [GitHub](https://github.com/seu-usuario)
 
 ---
